@@ -1,0 +1,265 @@
+.page {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  color: #434455;
+  background-color: #f4f4fd;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #4d5ae5;
+}
+
+button:hover,
+button:focus {
+  color: #4d5ae5;
+}
+
+.head {
+  background: #ffffff;
+  width: 1440px;
+  height: 72px;
+}
+
+.head:hover {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.head-nav {
+}
+
+.head-nav-link {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #2e2f42;
+}
+
+.head-nav-link-head {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #4d5ae5;
+}
+
+.head-nav-menu {
+}
+.nav-menu-item {
+}
+
+.nav-menu-link {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #2e2f42;
+}
+.adrs {
+}
+.adrs-menu {
+}
+.adrs-menu-item {
+}
+
+.adrs-menu-link {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #434455;
+}
+
+.content {
+}
+
+.content-quote {
+  width: 1440px;
+  height: 600px;
+  top: 72px;
+  background: #2e2f42;
+}
+
+.content-quote-title {
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.071;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+
+.content-quote-btn {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  text-align: left;
+  color: #ffffff;
+  background: #4d5ae5;
+  cursor: pointer;
+}
+.desc {
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.desc-list {
+}
+.desc-list-item {
+}
+
+.desc-list-subject {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #2e2f42;
+}
+
+.desc-list-text {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.team {
+}
+.team-title {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-list {
+}
+.team-list-item {
+}
+
+.team-list-avatar {
+  width: 264px;
+  height: 260px;
+}
+
+.team-list-name {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-list-profession {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.portfolio {
+}
+.portfolio-title {
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.portfolio-list {
+}
+.portfolio-list-item {
+}
+
+.portfolio-list-item-picture {
+  width: 360px;
+  height: 300px;
+}
+
+.portfolio-list-item-title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #2e2f42;
+}
+.portfolio-list-item-desc {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+.foot {
+  background: #2e2f42;
+}
+.foot-link-head {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #4d5ae5;
+}
+.foot-link {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #f4f4fd;
+}
+.foot-quote {
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #f4f4fd;
+}
