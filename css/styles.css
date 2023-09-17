@@ -115,7 +115,7 @@ a:focus {
 
 .content-quote-btn:hover,
 .content-quote-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .desc {
