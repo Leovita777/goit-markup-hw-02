@@ -60,6 +60,12 @@ a:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
+.nav-menu-link:hover,
+.nav-menu-link:focus {
+  color: #404bbf;
+}
+
 .adrs {
   font-style: normal;
 }
@@ -76,13 +82,15 @@ a:focus {
   color: #434455;
 }
 
+.adrs-menu-link:hover,
+.adrs-menu-link:focus {
+  color: #404bbf;
+}
+
 .content {
 }
 
 .content-quote {
-  width: 1440px;
-  height: 600px;
-  top: 72px;
   background: #2e2f42;
 }
 
@@ -91,6 +99,7 @@ a:focus {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 
@@ -102,6 +111,11 @@ a:focus {
   color: #ffffff;
   background: #4d5ae5;
   cursor: pointer;
+}
+
+.content-quote-btn:hover,
+.content-quote-btn:focus {
+  color: #404bbf;
 }
 
 .desc {
@@ -138,6 +152,8 @@ a:focus {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 
@@ -177,6 +193,7 @@ a:focus {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .portfolio-list {
